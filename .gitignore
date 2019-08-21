@@ -1,0 +1,17 @@
+IncomeStatement/ClientApp/.DS_Store
+
+# Log files
+npm-debug.log*
+
+# ignore node_modules
+IncomeStatement/ClientApp/node_modules/*
+
+# ignore package-lock json
+IncomeStatement/ClientApp/package-lock.json
+
+# inogre vs code
+.vs/*
+IncomeStatement/wwwroot/*
+IncomeStatement/bin/*
+IncomeStatement/obj/*
+ReleasePackage/*
